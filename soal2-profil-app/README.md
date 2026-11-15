@@ -1,3 +1,18 @@
+# UTS Pemrograman Mobile Lanjut - Soal 2
+
+Aplikasi Profil Mahasiswa berbasis Flutter untuk memenuhi tugas Ujian Tengah Semester.
+
+- **Nama:** Fajar
+- **NIM:** 1124160221
+- **Folder Proyek:** `soal2-profil-app`
+
+## Fitur Aplikasi
+1. Halaman Login dengan validasi email/password dan indikator loading
+2. Halaman Profil Utama dengan foto aset lokal, `Drawer`, dan `FloatingActionButton`
+3. Halaman Edit Profil dengan validasi input dan pembaruan data real-time (`setState`)
+4. Halaman Tentang Saya menggunakan `ListView`
+5. Dukungan tema Terang (Light Mode) dan Gelap (Dark Mode)
+
 # soal2_profil_app
 
 A new Flutter project.
